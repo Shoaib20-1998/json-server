@@ -1,4 +1,5 @@
 {
+  "MedZ":[{
   "products": [
     {
       "id": 1,
@@ -2123,7 +2124,16 @@
       "brand":"Tata",
       "category":"Muscle care"
     }
+  ],
+  "userdetails":[
+    {
+      "firstname":"shoaib",
+      "lastname":"mansuri",
+      "age":24,
+      "gender":"male",
+      "marital status":"single"
+    }
   ]
-  
-  
+   
+}]
 }
