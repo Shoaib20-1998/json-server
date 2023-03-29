@@ -1546,7 +1546,8 @@
       "age":24,
       "gender":"male",
       "maritalstatus":"single",
-      "email":""
+      "email":"",
+      "password":""
     }
   ]
    
