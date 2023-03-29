@@ -1545,7 +1545,8 @@
       "lastname":"mansuri",
       "age":24,
       "gender":"male",
-      "maritalstatus":"single"
+      "maritalstatus":"single",
+      "email":""
     }
   ]
    
