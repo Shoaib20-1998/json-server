@@ -2136,7 +2136,18 @@
     "gender":"male",
     "maritalstatus":"single",
     "email":"",
-    "password":""
+    "password":"",
+    "id":1
+  },
+  {
+    "firstname":"shoaib2",
+    "lastname":"mansuri2",
+    "age":24,
+    "gender":"male2",
+    "maritalstatus":"single",
+    "email":"",
+    "password":"",
+    "id":2
   }
 ]
 }
