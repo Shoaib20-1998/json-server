@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "server":"json-server --watch db.json --port 8080",
     "start" : "node server.js"
   },
   "keywords": [],
