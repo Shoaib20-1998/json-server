@@ -803,7 +803,7 @@
         "id":25
     }
   ],
-  "test-strip": [
+  "teststrip": [
   {
     "title" : "Contour TS Blood Glucose" ,
     "desc": "Contour TS Blood Glucose Test Strip can be used with the Bayer Contour plus blood glucose monitoring system for the quantitative measurement of glucose (sugar) in fresh capillary blood samples drawn from the fingertips.",
